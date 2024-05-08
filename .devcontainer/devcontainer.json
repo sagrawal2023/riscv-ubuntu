@@ -1,5 +1,5 @@
 {
-  "image": "drujensen/riscv-ubuntu",
+  "image": "drujensen/riscv-ubuntu:latest",
   "features": {
   }
 }
